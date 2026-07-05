@@ -5,9 +5,9 @@
   --foreground: #233d4d;
   --foreground-muted: #64748b;
   --background-card: #eaecf0;
-  --primary: #233d4d; /* Deep Navy as your anchor brand color */
-  --secondary: #fe7f2d; /* Vibrant Orange for CTA buttons/highlights */
-  --accent: #e0e4ec; /* Lighter variant of your gray for subtle accents */
+  --primary: #233d4d;
+  --secondary: #fe7f2d;
+  --accent: #e0e4ec;
   --border: #eaecf0;
 }
 
