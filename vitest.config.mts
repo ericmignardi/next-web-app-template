@@ -8,7 +8,7 @@ export default defineConfig({
   },
   test: {
     environment: "jsdom",
-    exclude: [...configDefaults.exclude, "tests/**"],
+    exclude: [...configDefaults.exclude, "__tests__/e2e/**"],
   },
 });
 
